@@ -47,6 +47,17 @@
             "pekerjaan":"#",
             "materi":"PHP | Laravel | Javascript | Vuejs",
             "img": "https://yt3.ggpht.com/a/AGF-l781wX98kR5z8sZu43yjA5vD-d3_CCFoGpi-ng=s288-c-k-c0xffffffff-no-rj-mo",
-            "deskripsi" : "Belajar pemrograman terkesan sulit, karena kebanyakan sumber belajarnya adalah berbahasa inggris, Kawan Koding memberi solusi untuk belajar pemrograman PHP, Laravel, Javascript, Vuejs Dalam Bahasa Indonesia."},
+            "deskripsi" : "Belajar pemrograman terkesan sulit, karena kebanyakan sumber belajarnya adalah berbahasa inggris, Kawan Koding memberi solusi untuk belajar pemrograman PHP, Laravel, Javascript, Vuejs Dalam Bahasa Indonesia."
+        },
+        {
+            "nama": "Sekolah Koding",
+            "author": "-",
+            "subscriber": "62k Subscriber",
+            "email": "-",
+            "pekerjaan":"#",
+            "materi":"ReactJs | Golang | Javascript | HTML CSS | Laravel | VueJs",
+            "img": "https://yt3.ggpht.com/a/AGF-l7-IZhY8SYRRWxx-J6v1kTpsnHMaPIrHgnSlpA=s288-c-k-c0xffffffff-no-rj-mo",
+            "deskripsi" : "Hi Semuanya! Cukup susah buat nyari tutorial berkualitas dalam bahasa Indonesia, butuh waktu yang cukup lama untuk ngambil kesimpulan dari sesuatu yang sebenarnya simple / mudah. Berawal dari sini, di Sekolah Koding teman-teman bisa belajar programming terutama dari sisi pengembangan website, ngga ketinggalan juga masalah desain. Tim Sekolah Koding berharap, channel ini bisa benar-benar bermanfaat, untuk teman-teman yang mau berkarir di bidang pengembangan website. Dan cita-cita besarnya tentu saja melahirkan ahli-ahli dari Indonesia yang karyanya bermanfaat untuk dunia. Selamat Belajar ! Ini tugas panjang dan besar, bantu sekolah koding untuk terus berkembang! share ke temen-temennya ya"
+        },
         
     ]
