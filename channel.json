@@ -79,5 +79,25 @@
             "img": "https://yt3.ggpht.com/a/AGF-l7-bj6cRqyNsc99RFBP6F70aHOKQqjWyr6jtKA=s288-c-k-c0xffffffff-no-rj-mo",
             "deskripsi" : "[Indonesian Tutorial Programming Channel] This channel is a place where you can learn a lot about programming. We serve as well and as detailed as possible. We learn for beginners, intermediate to become experts. An easy way for you to learn programming. PHP Tutorials, JAVA Tutorials, Android, HTML, CSS, JavaScript, Python, C#, Linux, ASP.Net. Visit Our Site : https://idstack.net"
         },
+        {
+            "nama": "Kampus Koding",
+            "author": "Ujang Wahyu",
+            "subscriber": "17k Subscriber",
+            "email": "ujangwahyusst@gmail.com",
+            "pekerjaan":"#",
+            "materi":"Android Studio | Java | Adobe XD | HTML CSS",
+            "img": "https://yt3.ggpht.com/a/AGF-l7_y-UnIezfjp26Rzzub5KAtohMWRqHRvfKarg=s288-c-k-c0xffffffff-no-rj-mo",
+            "deskripsi" : "Kampus Koding adalah sebuah chanel yang  menaungi mahasiswa di seluruh dunia untuk belajar perogramming dengan hanya menonton video pembelajar yang di sediakan. karena dengan mahalnya biaya kuliah maka dengan ini kami memfasilitasi sebuah chanel ini untuk belajar seputar dunia IT."
+        },
+        {
+            "nama": "Treehouse",
+            "author": "-",
+            "subscriber": "262k Subscriber",
+            "email": "-",
+            "pekerjaan":"#",
+            "materi":"Android Stuido | Javascript | React | Kotlin",
+            "img": "https://yt3.ggpht.com/a/AGF-l7_f_XFmA4lQUjvWgrzHcoCCpweExeGLeTRQ5Q=s288-c-k-c0xffffffff-no-rj-mo",
+            "deskripsi" : "Treehouse is an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business."
+        },
         
     ]
