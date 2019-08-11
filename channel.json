@@ -99,5 +99,15 @@
             "img": "https://yt3.ggpht.com/a/AGF-l7_f_XFmA4lQUjvWgrzHcoCCpweExeGLeTRQ5Q=s288-c-k-c0xffffffff-no-rj-mo",
             "deskripsi" : "Treehouse is an online school that teaches technology. Treehouse has courses on hundreds of topics including how to build a website, how to build a web app, how to build a mobile app, and how to start a business."
         },
+        {
+            "nama": "YukCoding Media",
+            "author": "-",
+            "subscriber": "19k Subscriber",
+            "email": "dev.yukcoding@gmail.com",
+            "pekerjaan":"#",
+            "materi":"Android Studio | Codeigniter | React Native",
+            "img": "https://yt3.ggpht.com/a/AGF-l7-TTqnCz4HyisEvSdTsg19hg-dQVxH_tN35Sg=s288-c-k-c0xffffffff-no-rj-mo",
+            "deskripsi" : "Channel YouTube aktif dari YukCoding Media. Jangan lupa SUBSCRIBE, like, dan share agar semakin bermanfaat untuk banyak orang :)"
+        },
         
     ]
